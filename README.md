@@ -1,4 +1,8 @@
 # odin-recipes
-Quick Project for HTML5
+HTML5 Project: Recipes
+-
+Created a static html page that links from the main index.html folder to 3 of my favorite home recipes.
 
-More on the way!
+The main reason for this project was to help me get acclimated to using Git and GitHub.
+
+Cheers!
