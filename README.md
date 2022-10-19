@@ -5,4 +5,4 @@ Created a static html page that links from the main index.html folder to 3 of my
 
 The main reason for this project was to help me get acclimated to using Git and GitHub.
 
-Cheers!
+[Live Demo](https://troywickliffe.github.io/odin-recipes/) :point_left:
